@@ -1,0 +1,23 @@
+[INFO ] 2021-04-04 19:59:42,134 com.rds.utils.Api - Signature is 3a20d7b2e5cd42a6685a7be861190045657f17193b4db572974e5a68a0675c9b. Timestamp is 1617559182130
+[INFO ] 2021-04-04 19:59:45,521 com.rds.utils.Api - Request executed in 3.37s
+[INFO ] 2021-04-04 19:59:45,530 com.rds.utils.Api - Signature is ec2f06cbad3f47083b4e4027b36ccd8c0aaf4c6a3cecf0603c204b47f59318be. Timestamp is 1617559185530
+[INFO ] 2021-04-04 19:59:45,844 com.rds.utils.Api - Request executed in 0.314s
+[INFO ] 2021-04-04 19:59:45,845 com.rds.utils.Api - Signature is 3ce102ed4998de954c7801536af53bad08c95671b7e9c4dbc0fa061eed4bcbe4. Timestamp is 1617559185845
+[INFO ] 2021-04-04 19:59:46,111 com.rds.utils.Api - Request executed in 0.266s
+[INFO ] 2021-04-04 19:59:46,373 com.rds.utils.Api - Signature is c9f4b1254caf3e8feaa394dde7e1ad10efe0ef5361d2341c65804b37739e911f. Timestamp is 1617559186373
+[INFO ] 2021-04-04 19:59:46,623 com.rds.utils.Api - Request executed in 0.249s
+[INFO ] 2021-04-04 19:59:46,624 com.rds.utils.Api - Signature is 10445fe0f877d82ac5655c13e56dd3aab6d4ef1b5a4efb14d86c0513299f4cb3. Timestamp is 1617559186624
+[INFO ] 2021-04-04 19:59:46,879 com.rds.utils.Api - Request executed in 0.255s
+[INFO ] 2021-04-04 19:59:46,880 com.rds.utils.Api - Signature is ffd32d6cce1155d884870c9914c84a8b40c4705f558327aff098740151d3384c. Timestamp is 1617559186880
+[INFO ] 2021-04-04 19:59:47,138 com.rds.utils.Api - Request executed in 0.258s
+[INFO ] 2021-04-04 19:59:47,139 com.rds.utils.Api - Signature is 4e031d1db7da36608b5735e50915bd92abc6e3903a1680c75f3e211fa1d15e3c. Timestamp is 1617559187139
+[INFO ] 2021-04-04 19:59:47,393 com.rds.utils.Api - Request executed in 0.254s
+[INFO ] 2021-04-04 19:59:47,394 com.rds.utils.Api - Signature is 37f480a7d03d26f9d930a60a42bd514fbe9dd47c0c6702cc3e226ae6c4eb6b11. Timestamp is 1617559187394
+[INFO ] 2021-04-04 19:59:47,652 com.rds.utils.Api - Request executed in 0.258s
+[INFO ] 2021-04-04 19:59:47,653 com.rds.utils.Api - Signature is 46cd37988c30f250339418dc8c3a2c205ec2e4977d13d881eaaa03afdac07c6d. Timestamp is 1617559187653
+[INFO ] 2021-04-04 19:59:47,904 com.rds.utils.Api - Request executed in 0.251s
+[INFO ] 2021-04-04 19:59:47,905 com.rds.utils.Api - Signature is f6a7b8bcbf347b42a1abd48a33725ce5af8a3f4c1b9d2bcde03767a6ddc2ee98. Timestamp is 1617559187905
+[INFO ] 2021-04-04 19:59:48,584 com.rds.utils.Api - Request executed in 0.679s
+[INFO ] 2021-04-04 19:59:48,585 com.rds.utils.Api - Signature is e6bf2fb792a121fb8297b12b7ce1805a59653549002959df84a2f69e52506da3. Timestamp is 1617559188585
+[INFO ] 2021-04-04 19:59:48,895 com.rds.utils.Api - Request executed in 0.31s
+[INFO ] 2021-04-04 19:59:48,896 com.rds.utils.Api - Signature is ebbd6fb2b43c6cddeef663332d31cadf73f1a29ff023229d06bd75047c73fb8e. Timestamp is 1617559188896

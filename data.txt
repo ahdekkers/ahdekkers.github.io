@@ -966,3 +966,5 @@
 [INFO ] 2021-04-05 11:34:42,065 com.rds.algorithms.Algorithm - RSI: 48.304788535481784. MACD: -3.299267029092232E-5. Average: 0.035392304
 [INFO ] 2021-04-05 11:39:42,071 com.rds.algorithms.Algorithm - New average value: 0.035495
 [INFO ] 2021-04-05 11:39:42,071 com.rds.algorithms.Algorithm - RSI: 35.95505617977723. MACD: -2.4838761555339862E-5. Average: 0.035394171333333335
+[INFO ] 2021-04-05 11:44:42,069 com.rds.algorithms.Algorithm - New average value: 0.0355264
+[INFO ] 2021-04-05 11:44:42,069 com.rds.algorithms.Algorithm - RSI: 50.26954177897645. MACD: -1.856587925027832E-5. Average: 0.0353964

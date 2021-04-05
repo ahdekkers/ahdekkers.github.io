@@ -1,1 +1,950 @@
-ok nowq this works for real
+[WARN ] 2021-04-05 10:58:32,345 com.rds.utils.Api - Failed to parse the following json while querying account holdings: {"code":-1021,"msg":"Timestamp for this request is outside of the recvWindow."}
+[WARN ] 2021-04-05 10:58:32,345 com.rds.Runner - Failed to get initial BTC holdings
+[INFO ] 2021-04-05 10:58:32,346 com.rds.Runner - Initialising...
+[INFO ] 2021-04-05 10:58:32,383 com.rds.Runner - Registered new value listener at url http://localhost:10230/add-price-listener?port=10231. Response was "{"timestamp":"2021-04-05T09:58:32.379+00:00","status":500,"error":"Internal Server Error","message":"","path":"/add-price-listener"}"
+[INFO ] 2021-04-05 10:58:32,425 com.rds.algorithms.Algorithm - New average value: 0.035297350000000005
+[INFO ] 2021-04-05 10:58:32,425 com.rds.algorithms.Algorithm - RSI: NaN. MACD: 0.0. Average: 0.035297350000000005
+[INFO ] 2021-04-05 10:58:32,425 com.rds.algorithms.Algorithm - New average value: 0.0352816
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 0.0. MACD: 0.0. Average: 0.035289475
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - New average value: 0.035444149999999994
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 91.16657319124927. MACD: 0.0. Average: 0.035341033333333334
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - New average value: 0.0354716
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 92.34507897934286. MACD: 0.0. Average: 0.035373675
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - New average value: 0.035477350000000005
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 92.55319148936093. MACD: 0.0. Average: 0.03539441
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - New average value: 0.03553630000000001
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 94.17637271214585. MACD: 0.0. Average: 0.035418058333333335
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - New average value: 0.0356256
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 95.62195969423158. MACD: 0.0. Average: 0.035447707142857145
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - New average value: 0.0356219
+[INFO ] 2021-04-05 10:58:32,426 com.rds.algorithms.Algorithm - RSI: 94.64850736002087. MACD: 0.0. Average: 0.035469481250000004
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.035536899999999996
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - RSI: 76.7086631731508. MACD: 0.0. Average: 0.03547697222222222
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.03557145000000001
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - RSI: 78.37474120082774. MACD: 0.0. Average: 0.035486420000000005
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.03565465
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - RSI: 83.885911526932. MACD: 0.0. Average: 0.03550171363636364
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.035660250000000004
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - RSI: 77.45870393900894. MACD: 0.0. Average: 0.035514925
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.035653899999999995
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - RSI: 74.4763694951645. MACD: -4.155266272191865E-6. Average: 0.03552561538461539
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.03573225
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - RSI: 78.64044943820033. MACD: 3.869543368929167E-5. Average: 0.035540375000000006
+[INFO ] 2021-04-05 10:58:32,427 com.rds.algorithms.Algorithm - New average value: 0.03573355
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 75.46146895572282. MACD: 7.71806710316967E-5. Average: 0.03555325333333334
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - New average value: 0.035696099999999995
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 60.50670640834372. MACD: 1.0637389460783899E-4. Average: 0.035562181250000005
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - New average value: 0.03569405
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 60.80575108581597. MACD: 1.4402231079075728E-4. Average: 0.03556993823529413
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - New average value: 0.03568510000000001
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 78.74321179208798. MACD: 1.9634328013242014E-4. Average: 0.03557633611111112
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - New average value: 0.0357231
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 79.02392344497507. MACD: 2.327544279734206E-4. Average: 0.0355840605263158
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - New average value: 0.03573395
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 70.98994176813073. MACD: 2.3468287041972629E-4. Average: 0.03559155500000001
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - New average value: 0.03571845
+[INFO ] 2021-04-05 10:58:32,428 com.rds.algorithms.Algorithm - RSI: 64.63782696176928. MACD: 2.474876194267703E-4. Average: 0.03559759761904763
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.03570565
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 62.60657734470296. MACD: 2.6469683658304777E-4. Average: 0.0356025090909091
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.03567854999999999
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 32.564935064930964. MACD: 2.658247918518473E-4. Average: 0.03560581521739131
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.03553970000000001
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 16.755273537984408. MACD: 2.560591613951317E-4. Average: 0.03560306041666667
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.035353899999999994
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 11.104796544667295. MACD: 2.596803168301896E-4. Average: 0.03559309400000001
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.03542255
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 23.198420533069267. MACD: 2.4606172749329797E-4. Average: 0.03558653461538463
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.035533850000000006
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 37.57904245709094. MACD: 2.1768817829642827E-4. Average: 0.03558458333333334
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - New average value: 0.03569935
+[INFO ] 2021-04-05 10:58:32,429 com.rds.algorithms.Algorithm - RSI: 48.387315814490215. MACD: 1.7606107810750373E-4. Average: 0.03558868214285715
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.03565705
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 44.99218546496502. MACD: 1.3463129735461754E-4. Average: 0.03559103965517242
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.0355383
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 39.65903220251444. MACD: 1.0191988306961828E-4. Average: 0.035589281666666674
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.035476400000000005
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 37.54279193609776. MACD: 6.346850239328389E-5. Average: 0.03558564032258066
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.03542835000000001
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 36.70704494740295. MACD: 1.1438476105926393E-5. Average: 0.035580725000000014
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.03540475
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 41.82963007810099. MACD: -4.4222580841384224E-5. Average: 0.035575392424242444
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.0354457
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 56.74008810572709. MACD: -9.055667045501073E-5. Average: 0.035571577941176484
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.0354456
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - RSI: 51.88178626826712. MACD: -1.7123785270693878E-4. Average: 0.035567978571428585
+[INFO ] 2021-04-05 10:58:32,430 com.rds.algorithms.Algorithm - New average value: 0.03531015
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 32.43009739239619. MACD: -2.8830128585480676E-4. Average: 0.03556081666666668
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.035232799999999995
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 7.466496490108128. MACD: -3.487559544055693E-4. Average: 0.03555195135135136
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.035273700000000005
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 14.962069280688453. MACD: -3.5989881329009205E-4. Average: 0.035544628947368435
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.03516715
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 15.30335608114531. MACD: -3.299312230409091E-4. Average: 0.03553495000000001
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.035190200000000005
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 21.149193548388467. MACD: -3.1400550368272916E-4. Average: 0.03552633125000001
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.035327899999999995
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 41.42405873815315. MACD: -3.2470234868129164E-4. Average: 0.03552149146341464
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.03544475
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 52.945941964943124. MACD: -3.457054775144107E-4. Average: 0.03551966428571429
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.03545875
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 51.00084362297724. MACD: -3.543774946596614E-4. Average: 0.035518247674418614
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - New average value: 0.03535155000000001
+[INFO ] 2021-04-05 10:58:32,431 com.rds.algorithms.Algorithm - RSI: 43.80475594493176. MACD: -3.368376434060781E-4. Average: 0.035514459090909105
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.0352836
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 48.08039910346326. MACD: -2.9772377631267285E-4. Average: 0.0355093288888889
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.035334899999999995
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 57.6709241172051. MACD: -2.681769110038893E-4. Average: 0.035505536956521755
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.0353624
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 56.80110412513394. MACD: -2.9612013752978506E-4. Average: 0.035502491489361715
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.03538945
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 69.41145651414617. MACD: -3.36448083038534E-4. Average: 0.035500136458333345
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.03541415
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 69.49934697431405. MACD: -3.235410979902692E-4. Average: 0.03549838163265307
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.03535649999999999
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 52.89356535815421. MACD: -3.0169153253151003E-4. Average: 0.03549554400000001
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.0353
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 33.31796703929939. MACD: -2.694158990240922E-4. Average: 0.035491709803921585
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.0353894
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 43.19096710849333. MACD: -2.0559033582683283E-4. Average: 0.03548974230769232
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - New average value: 0.0354358
+[INFO ] 2021-04-05 10:58:32,432 com.rds.algorithms.Algorithm - RSI: 59.39346638421127. MACD: -1.4349580195660352E-4. Average: 0.035488724528301895
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.035455799999999996
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 71.49812734082374. MACD: -8.790619794745683E-5. Average: 0.03548811481481483
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.03542785
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 62.32268328251378. MACD: -4.6933093390419536E-5. Average: 0.0354870190909091
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.03544265
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 61.00974070517191. MACD: -9.739104758103948E-6. Average: 0.035486226785714295
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.0354638
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 60.36814949100481. MACD: 4.032216564662323E-5. Average: 0.03548583333333335
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.0354914
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 60.68612532853798. MACD: 9.050339166525223E-5. Average: 0.03548592931034484
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.035444199999999995
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 62.49287749287803. MACD: 1.3042177012451302E-4. Average: 0.03548522203389832
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.0353451
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 55.729166666666565. MACD: 1.5751760483121124E-4. Average: 0.03548288666666668
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.03525625
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - RSI: 33.061951405673426. MACD: 1.709999125411356E-4. Average: 0.035479171311475426
+[INFO ] 2021-04-05 10:58:32,433 com.rds.algorithms.Algorithm - New average value: 0.035247200000000006
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 23.488895136350266. MACD: 1.7031916395685454E-4. Average: 0.035475429838709695
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.035151749999999995
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 14.739649773861004. MACD: 1.9374292039718967E-4. Average: 0.03547029206349208
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.03539185
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 47.20192756101402. MACD: 2.452474198023166E-4. Average: 0.03546906640625001
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.03544125000000001
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 49.896739932144. MACD: 2.829241605888457E-4. Average: 0.03546863846153847
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.03532625
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 41.08843537414999. MACD: 2.768473527410476E-4. Average: 0.03546648106060607
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.035428299999999996
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 46.271567005435976. MACD: 2.5284980482666596E-4. Average: 0.03546591119402986
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.0354125
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 48.05473735886138. MACD: 2.296833359753921E-4. Average: 0.035465125735294124
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.03540655
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 54.257604101711564. MACD: 2.2753639801960824E-4. Average: 0.03546427681159421
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.03538670000000001
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 59.993871140733965. MACD: 2.1882941675357905E-4. Average: 0.03546316857142858
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.03540025000000001
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - RSI: 61.6449821197593. MACD: 1.6755999733616614E-4. Average: 0.035462282394366204
+[INFO ] 2021-04-05 10:58:32,434 com.rds.algorithms.Algorithm - New average value: 0.035340649999999994
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 65.20199581522542. MACD: 8.346599020537606E-5. Average: 0.035460593055555566
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.0352935
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 38.51990194934042. MACD: 2.017276715274024E-6. Average: 0.03545830410958905
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.0352556
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 27.731798008875515. MACD: -8.846107598948545E-5. Average: 0.035455564864864876
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.035284949999999995
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 43.76509661835727. MACD: -7.416109808520044E-5. Average: 0.035453290000000005
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - Algorithm now has sufficient data to initiate buy and sell orders
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.0351189
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 10.855263157894584. MACD: -3.996821636435901E-5. Average: 0.035450910666666675
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.03516394999999999
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 20.72093297207971. MACD: -6.616712791557222E-5. Average: 0.035449341999999995
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.0351614
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 20.888255551595762. MACD: -6.629802071015197E-5. Average: 0.03544557199999999
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.0350115
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 15.958991108690228. MACD: -6.50952328236894E-5. Average: 0.03543943733333332
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.03502865000000001
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 16.504416801874385. MACD: -4.6833465402352226E-5. Average: 0.035433454666666656
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.03505105
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 22.019323671496508. MACD: -2.9295993965033703E-5. Average: 0.035426984666666654
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.035085599999999995
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - RSI: 29.411764705880657. MACD: 2.6706540820957365E-6. Average: 0.035419784666666655
+[INFO ] 2021-04-05 10:58:32,435 com.rds.algorithms.Algorithm - New average value: 0.035143350000000004
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 39.30443068127687. MACD: -1.1210446765343588E-5. Average: 0.03541340399999999
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.0351463
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 36.08909401023334. MACD: -4.6882838994505234E-5. Average: 0.03540819599999999
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.03521824999999999
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 62.288188002473404. MACD: -6.482086681920742E-5. Average: 0.03540348666666666
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.03530389999999999
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 65.73002135551368. MACD: -5.988351619784374E-5. Average: 0.03539880999999999
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.035333550000000005
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 68.23816082212107. MACD: -9.898290049642128E-5. Average: 0.035394453999999985
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.0353134
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 94.1116306253644. MACD: -9.785750191512862E-5. Average: 0.035389913999999995
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.03530745
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 92.11480362537533. MACD: -1.2464702907987707E-4. Average: 0.03538425
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.035257899999999995
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 78.87756526594802. MACD: -1.9254016508449395E-4. Average: 0.035377907999999986
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.0352325
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 71.04584527220611. MACD: -2.1253636513999028E-4. Average: 0.03537172666666666
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.03522175
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 62.980132450330856. MACD: -2.2544937615423218E-4. Average: 0.035365429333333316
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.0352109
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 60.42271700548614. MACD: -2.194328347669063E-4. Average: 0.03535910666666665
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.0351848
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 43.66597235372308. MACD: -2.0396445475643607E-4. Average: 0.035351929333333316
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - New average value: 0.03518545
+[INFO ] 2021-04-05 10:58:32,436 com.rds.algorithms.Algorithm - RSI: 16.92264730522676. MACD: -1.778227407039867E-4. Average: 0.035344615999999995
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.03518275
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 0.42735042734902606. MACD: -1.4360472428044202E-4. Average: 0.03533747333333333
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.0351661
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 0.43741588155981503. MACD: -7.750234692819386E-5. Average: 0.03533027933333333
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.03511835
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 0.3413865546207404. MACD: 9.94608142638708E-6. Average: 0.035322809999999996
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.03505025
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 0.31107920555055557. MACD: 8.238451312520844E-5. Average: 0.035316284
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.03506250000000001
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 6.588355464764803. MACD: 1.3869614922520332E-4. Average: 0.03531239866666667
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.0350507
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 6.553213106430491. MACD: 1.913088370837261E-4. Average: 0.03530744066666667
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.035026600000000005
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 6.139933365068529. MACD: 2.1481090559750482E-4. Average: 0.035300677333333336
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.03497315
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 5.432722678462412. MACD: 2.2759862942424886E-4. Average: 0.035290994666666686
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.0349649
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 4.998979800045305. MACD: 2.482858619528473E-4. Average: 0.03528176600000001
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.03498045
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 10.779371849558927. MACD: 2.4081938784395885E-4. Average: 0.035274328000000015
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.035030700000000005
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 26.77530017152985. MACD: 2.195496486581413E-4. Average: 0.035268385333333346
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - New average value: 0.035059900000000005
+[INFO ] 2021-04-05 10:58:32,437 com.rds.algorithms.Algorithm - RSI: 39.29291078952401. MACD: 1.9032049331621942E-4. Average: 0.03526347266666668
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.035061999999999996
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 52.8388499637586. MACD: 1.5241106397451191E-4. Average: 0.035258902666666675
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.035081100000000004
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 54.34985968194397. MACD: 1.0405061699873691E-4. Average: 0.03525404133333334
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.0350821
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 57.733990147783665. MACD: 3.854718689489807E-5. Average: 0.03524919466666667
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.03499315000000001
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 43.755833488893366. MACD: -1.935392430338649E-5. Average: 0.03524496800000001
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.0349913
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 54.19653179190797. MACD: -7.931743021023056E-5. Average: 0.03524174800000001
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.034995700000000005
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 57.25047080979407. MACD: -1.3272127414546537E-4. Average: 0.035238041333333345
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.03508025
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 67.73276474769042. MACD: -1.900740194938884E-4. Average: 0.03523688266666667
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.035101349999999996
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 64.00396432110935. MACD: -2.2886494679583727E-4. Average: 0.035235698
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.0351187
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 62.22961730449266. MACD: -2.455626994231595E-4. Average: 0.035232908666666674
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.03513840000000001
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 64.80620155038969. MACD: -2.3449732398340888E-4. Average: 0.035228824000000006
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.03512095
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 57.77257655548931. MACD: -2.0134302681455775E-4. Average: 0.03522432000000002
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.0350293
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 42.39193083573521. MACD: -1.5958863698460564E-4. Average: 0.03522002333333334
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.035033699999999994
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 57.72528100590297. MACD: -1.1125725491499702E-4. Average: 0.03521669133333334
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - New average value: 0.0350247
+[INFO ] 2021-04-05 10:58:32,438 com.rds.algorithms.Algorithm - RSI: 56.19436201780336. MACD: -6.492334471329818E-5. Average: 0.03521255533333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.035009200000000004
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 52.40470252939078. MACD: -4.1415973520304974E-5. Average: 0.03520784600000001
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.0350246
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 36.847081068305855. MACD: -1.0436770871758062E-5. Average: 0.03520298133333335
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.0350622
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 41.416356062268214. MACD: 2.6177948086616326E-5. Average: 0.035198288666666674
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.035065650000000004
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 37.613822087322006. MACD: 7.290503880435123E-5. Average: 0.03519441066666668
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03504085
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 27.753705815277087. MACD: 1.0963706449623143E-4. Average: 0.03519095533333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.0350528
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 34.05847953216406. MACD: 1.4047677179462788E-4. Average: 0.03518646733333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03502829999999999
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 49.65893587994273. MACD: 1.7202182324104728E-4. Average: 0.03518103400000001
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03500944999999999
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 42.47128221049302. MACD: 1.8947956516460462E-4. Average: 0.03517508266666668
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03499795
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 41.82207276062424. MACD: 1.8167479416794283E-4. Average: 0.035169350666666675
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.0349843
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 42.30055658627084. MACD: 1.7293557145340942E-4. Average: 0.03516323933333333
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03501155
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 46.24027657735525. MACD: 1.5657511430168064E-4. Average: 0.03515720933333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.0350288
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 39.09921671018226. MACD: 1.2851110968339642E-4. Average: 0.03515104133333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03499945
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 31.518704634282017. MACD: 9.901335902731673E-5. Average: 0.03514511133333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03504525
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - RSI: 51.099450274863. MACD: 7.718427479674547E-5. Average: 0.03514111333333334
+[INFO ] 2021-04-05 10:58:32,439 com.rds.algorithms.Algorithm - New average value: 0.03503195
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 44.825018615040044. MACD: 6.232488402472183E-5. Average: 0.035138122666666674
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03503945
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 53.02249932231214. MACD: 3.862085859337979E-5. Average: 0.035135352666666675
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03502255
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 53.58904109589323. MACD: 2.9915380404964663E-5. Average: 0.03513363
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.0350617
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 65.1677373304791. MACD: 9.757669452066822E-6. Average: 0.035129228
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.0350869
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 73.13937753721208. MACD: -9.116773287834084E-6. Average: 0.035124503333333335
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.0350881
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 69.56299514438997. MACD: -2.4799570502563144E-5. Average: 0.035121328
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.035109499999999995
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 70.19519519519491. MACD: -4.162569953741323E-5. Average: 0.03511707733333333
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.035123949999999994
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 83.66684694429318. MACD: -4.709102178030194E-5. Average: 0.03511323
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.0351263
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 78.64969954047311. MACD: -4.014449535241744E-5. Average: 0.03510949333333333
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.035112899999999996
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 78.59413634757821. MACD: -4.514961323000982E-5. Average: 0.035105842666666665
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.035126500000000005
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 79.47849644429309. MACD: -3.6430206280041525E-5. Average: 0.03510219266666667
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03512525
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 88.90151515150792. MACD: -2.620389496024793E-5. Average: 0.03509932066666666
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03510845
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 71.31782945736028. MACD: -1.159686956949336E-5. Average: 0.03509685333333334
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.0351092
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 63.086854460092304. MACD: -4.211257222476528E-6. Average: 0.03509490133333333
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03515135
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 75.06936187078523. MACD: 1.8490031495665648E-5. Average: 0.03509312
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03513319999999999
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 59.641985353941735. MACD: 4.6521237838836784E-5. Average: 0.03509331066666667
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03516785
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 65.33892382948764. MACD: 6.022829304129045E-5. Average: 0.03509336266666667
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - New average value: 0.03521365
+[INFO ] 2021-04-05 10:58:32,440 com.rds.algorithms.Algorithm - RSI: 73.41195389975432. MACD: 7.908515655114533E-5. Average: 0.03509405933333334
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03522969999999999
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 80.86680761098842. MACD: 9.409659305669672E-5. Average: 0.03509696866666667
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03523965
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 80.49043384531932. MACD: 1.0450677886029156E-4. Average: 0.035099782
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03525790000000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 82.74500123426228. MACD: 1.0845557332170706E-4. Average: 0.03510254
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.0352686
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 90.76100789004475. MACD: 1.1412210116480344E-4. Average: 0.03510498000000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.0353085
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 92.29626485568456. MACD: 1.1313930394100751E-4. Average: 0.03510718200000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03530439999999999
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 88.73702860034804. MACD: 1.0640819832619233E-4. Average: 0.035109290000000015
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.035303499999999995
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 97.22684414863862. MACD: 9.276492618892015E-5. Average: 0.03511042666666667
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03533000000000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 97.09555620098489. MACD: 9.102113453411354E-5. Average: 0.035110774666666685
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03547014999999999
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 98.12382739211822. MACD: 7.736045716065116E-5. Average: 0.03511259600000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03547505
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 98.04190327001974. MACD: 7.45807349628097E-5. Average: 0.03511475133333335
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03548544999999999
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 98.04534792806685. MACD: 7.72809736883376E-5. Average: 0.03511712466666668
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.035475049999999994
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 93.78907037709223. MACD: 7.729605247051926E-5. Average: 0.035120020000000016
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.035489150000000004
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 93.8730853391691. MACD: 7.834715081663632E-5. Average: 0.03512344200000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.035492300000000004
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 92.82385834110038. MACD: 8.016147727263024E-5. Average: 0.03512704933333335
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03549195000000001
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 94.4747450794458. MACD: 8.318969573278069E-5. Average: 0.03513079666666668
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.035447450000000005
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 78.28650029475591. MACD: 9.144051339818205E-5. Average: 0.03513429866666667
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.0354531
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 76.3484589041106. MACD: 9.688793441342497E-5. Average: 0.03513786733333333
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - New average value: 0.03548165
+[INFO ] 2021-04-05 10:58:32,441 com.rds.algorithms.Algorithm - RSI: 54.71311475410319. MACD: 9.350435295455118E-5. Average: 0.03514185266666667
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035515050000000006
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 63.28903654485306. MACD: 9.237001281628345E-5. Average: 0.035146505333333335
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.0355052
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 56.585528509507014. MACD: 1.2937341220133888E-4. Average: 0.03515166333333333
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035509200000000005
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 61.894810170674255. MACD: 1.5395087162873824E-4. Average: 0.035157782666666665
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03548675
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 49.2100065832764. MACD: 1.6593206062451345E-4. Average: 0.035163439333333324
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035504549999999996
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 53.677574302008495. MACD: 1.716949236656565E-4. Average: 0.03516949066666666
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035497350000000004
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 51.557093425604194. MACD: 1.6997312087427743E-4. Average: 0.03517576733333333
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03544375
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 48.98630136986243. MACD: 1.5930413999408832E-4. Average: 0.035182042
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03545355
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 50.12054647736379. MACD: 1.4673204334729134E-4. Average: 0.03518855733333333
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03555515
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 64.15094339622541. MACD: 1.1886069199083235E-4. Average: 0.03519621999999999
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03566325
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 72.15909090908967. MACD: 7.928075343663186E-5. Average: 0.03520465399999999
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03567115
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 74.95864039705205. MACD: 4.447706697858494E-5. Average: 0.035212804
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.03563415000000001
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 67.09536188261207. MACD: 1.555874440500437E-5. Average: 0.03522043266666666
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035605500000000005
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 65.97605273779283. MACD: -1.3043208942671342E-5. Average: 0.03522742466666666
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035624
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 66.04001611387318. MACD: -3.580077723999215E-5. Average: 0.03523464999999999
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.0356262
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 67.53777051857892. MACD: -6.248141760664954E-5. Average: 0.03524309066666666
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - New average value: 0.035607299999999995
+[INFO ] 2021-04-05 10:58:32,442 com.rds.algorithms.Algorithm - RSI: 74.58289493461594. MACD: -9.601622047248823E-5. Average: 0.035251304
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.0355983
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 71.80955250866467. MACD: -1.1993033469646078E-4. Average: 0.03525933866666666
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035625050000000005
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 63.5992217898849. MACD: -1.519820812610483E-4. Average: 0.03526660266666667
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035635099999999996
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 41.145014155392076. MACD: -1.7225194074115983E-4. Average: 0.035273719333333335
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035705499999999994
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 57.75570106118741. MACD: -1.6218617349945225E-4. Average: 0.035281543333333346
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035725900000000005
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 72.39443495240295. MACD: -1.254094504393303E-4. Average: 0.03528937666666668
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.0356771
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 65.91111111111096. MACD: -9.761389385720741E-5. Average: 0.03529679200000001
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035641450000000005
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 53.60313855048573. MACD: -7.865224820439591E-5. Average: 0.035304954000000006
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.03558755000000001
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 43.42351539901522. MACD: -6.541295774705375E-5. Average: 0.03531233866666667
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035561199999999994
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 42.349817457683606. MACD: -4.692658863725876E-5. Average: 0.035319492
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035572
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 45.66149785549355. MACD: -2.613471739701384E-5. Average: 0.035326996
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.03559074999999999
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 44.188410708232105. MACD: -8.91440819726473E-6. Average: 0.03533454466666667
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.03565665
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 53.07023792563052. MACD: -4.4943824199875375E-6. Average: 0.03534247066666667
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.03567970000000001
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 45.75098814229537. MACD: -3.856415016951847E-6. Average: 0.03535065800000001
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.0357005
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 45.822368421052595. MACD: -1.1376530871639353E-5. Average: 0.03535945333333334
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.0356649
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - RSI: 47.902338376890825. MACD: 7.127421642859626E-7. Average: 0.03536761466666667
+[INFO ] 2021-04-05 10:58:32,443 com.rds.algorithms.Algorithm - New average value: 0.035634400000000004
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 48.76597234377717. MACD: 2.403228975192729E-5. Average: 0.035375696000000005
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03564665
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 62.11065573770229. MACD: 2.709234860958848E-5. Average: 0.035384192
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.035660899999999995
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 71.49633462699464. MACD: 7.594246781989194E-6. Average: 0.03539303133333334
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03566125
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 70.15127568299837. MACD: -3.5129375853548055E-5. Average: 0.035402057333333334
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.0356685
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 68.51631340795562. MACD: -7.402986677993332E-5. Average: 0.035410816666666664
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03563815000000001
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 44.69610091743358. MACD: -9.775469665134826E-5. Average: 0.03541894133333333
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.035629549999999996
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 34.32322600812279. MACD: -1.0790482233924556E-4. Average: 0.03542734266666665
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03560295
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 20.573152337856314. MACD: -1.0787834485781494E-4. Average: 0.03543477866666665
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03564665
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 44.751222318090726. MACD: -1.1251115992454115E-4. Average: 0.035442974666666655
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.035687449999999996
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 64.40401846320817. MACD: -1.0925564742856556E-4. Average: 0.03545161466666666
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.035721199999999995
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 68.12545587162585. MACD: -1.0818707736912319E-4. Average: 0.03546092999999999
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.035691850000000004
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 57.01019252548378. MACD: -1.0331940917453341E-4. Average: 0.035469331999999985
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03568605
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 55.48187444739161. MACD: -8.336705500282512E-5. Average: 0.03547732066666665
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.0357476
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 64.09982174688088. MACD: -6.804406564848231E-5. Average: 0.035486113999999985
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.035757
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 72.89539587747853. MACD: -5.9636842213880596E-5. Average: 0.03549474733333332
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.0357691
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 76.52537540391734. MACD: -5.067925760532906E-5. Average: 0.035503349333333316
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.0358086
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 87.26218517847506. MACD: -5.2943537332198184E-5. Average: 0.035512446666666656
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03585365
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - RSI: 87.32419761990681. MACD: -5.4750370025259784E-5. Average: 0.03552232333333332
+[INFO ] 2021-04-05 10:58:32,444 com.rds.algorithms.Algorithm - New average value: 0.03587545
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 86.39179248935451. MACD: -5.8828988393404624E-5. Average: 0.03553230933333332
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.03587295
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 83.41774939440691. MACD: -4.484526458661226E-5. Average: 0.03554227866666665
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.0358375
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 81.2352562727831. MACD: -2.239309909619162E-5. Average: 0.03555199933333332
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.03583195
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 81.32245598969499. MACD: -1.5385755070593103E-6. Average: 0.03556163599999998
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.03577895
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 56.98685090260703. MACD: 5.298643736564267E-6. Average: 0.03557000399999999
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035755699999999994
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 49.7271200671699. MACD: 4.762804779718696E-6. Average: 0.035578303999999984
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035772149999999996
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 50.6287363430215. MACD: 2.7360337818670954E-5. Average: 0.03558636133333332
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.0358112
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 50.53696819496041. MACD: 4.9386566212939596E-5. Average: 0.03559432866666666
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.03581875000000001
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 41.471163245360245. MACD: 6.7607272067631E-5. Average: 0.035602182666666655
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.0358115
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 33.175480136808886. MACD: 8.570591932667936E-5. Average: 0.035609807333333326
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035830799999999996
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 39.811457577955004. MACD: 1.0489889771093148E-4. Average: 0.03561744599999998
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.0358484
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 52.883597883597744. MACD: 1.193148729082468E-4. Average: 0.03562517666666665
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035847649999999995
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 54.2616720955457. MACD: 1.3469404939092774E-4. Average: 0.035632365333333325
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035851350000000004
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 76.83469236470893. MACD: 1.4042293888475547E-4. Average: 0.03563965799999999
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035838749999999996
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 83.42052313882058. MACD: 1.4167062912357647E-4. Average: 0.03564679466666666
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.0358591
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 83.92508778773664. MACD: 1.1633054009573783E-4. Average: 0.03565384933333333
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.03591065
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 85.3537148951181. MACD: 8.125400816663447E-5. Average: 0.03565972266666666
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035868950000000004
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 64.35926773454878. MACD: 4.900345333717068E-5. Average: 0.03566497466666666
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.035869
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 67.15393794749004. MACD: 3.138935666096589E-5. Average: 0.035670088666666655
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.03589384999999999
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - RSI: 68.20675714697836. MACD: 1.4018124133692177E-5. Average: 0.03567567266666666
+[INFO ] 2021-04-05 10:58:32,445 com.rds.algorithms.Algorithm - New average value: 0.0359057
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 67.11469534049803. MACD: -1.537866511730715E-5. Average: 0.035681226666666656
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03586665
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 54.61837627613115. MACD: -3.444214623270079E-5. Average: 0.035686217999999985
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03584775
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 49.185151652329964. MACD: -4.767532598638931E-5. Average: 0.035690961999999986
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035842599999999995
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 50.90185055048012. MACD: -5.805989780133269E-5. Average: 0.035696230666666655
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035870099999999995
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 52.493200362646654. MACD: -6.433002252175234E-5. Average: 0.03570179066666665
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.0358536
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 34.62678523308941. MACD: -7.23092580704352E-5. Average: 0.03570674999999998
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03580245
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 32.948717948716364. MACD: -7.584243037601438E-5. Average: 0.03571058199999997
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035754999999999995
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 26.485148514851232. MACD: -6.258873847595604E-5. Average: 0.035713912666666646
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03577415
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 24.714828897341206. MACD: -6.23828852008838E-5. Average: 0.03571744533333331
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03577079999999999
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 20.44259421560028. MACD: -5.4598844950529515E-5. Average: 0.03572123266666665
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035773349999999995
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 25.665101721440706. MACD: -3.83639426478868E-5. Average: 0.035724816666666645
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035839
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 48.16523380163681. MACD: -2.233735113029014E-5. Average: 0.03572937199999999
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035856849999999996
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 52.836950029862564. MACD: -2.2829988878160545E-5. Average: 0.03573487999999999
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03582765
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 41.60569507613377. MACD: -2.3954402312038008E-5. Average: 0.03573986799999998
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03590249999999999
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 57.85668380462581. MACD: -2.303235774685141E-5. Average: 0.03574449933333331
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03589835
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 68.14912944738991. MACD: -2.2172406809429558E-5. Average: 0.035747633999999986
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.0358741
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 74.70954356846715. MACD: -2.789156215522067E-5. Average: 0.035750339999999985
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.0358041
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 55.1310604762725. MACD: -4.873493880110208E-5. Average: 0.035752605999999985
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.0357797
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 51.42217961010016. MACD: -8.316114048166135E-5. Average: 0.03575492866666666
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.035721550000000005
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 42.97150610583507. MACD: -1.04945908878857E-4. Average: 0.03575622933333332
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03572645000000001
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 31.714053614945527. MACD: -1.2119492274166859E-4. Average: 0.035757565999999984
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - New average value: 0.03574675
+[INFO ] 2021-04-05 10:58:32,446 com.rds.algorithms.Algorithm - RSI: 32.253384912958026. MACD: -1.3537519811610257E-4. Average: 0.03575942533333332
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.035741300000000004
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 34.927561529061066. MACD: -1.191329650831363E-4. Average: 0.035761331999999986
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03574225
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 12.302987532344545. MACD: -1.0248605381462187E-4. Average: 0.03576289466666666
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03573275
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 12.000917852224163. MACD: -9.97077920085799E-5. Average: 0.035764196666666664
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03572245
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 12.82177004167552. MACD: -7.148803162716626E-5. Average: 0.03576442266666667
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03571045
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 17.917094895510147. MACD: -3.772920069248392E-5. Average: 0.035764216666666675
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03569195
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 18.671902891822725. MACD: -1.3647137352607722E-5. Average: 0.03576441466666667
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.035691650000000005
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 31.812652068124834. MACD: -1.102886855170587E-5. Average: 0.035765084
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03570834999999999
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 40.37234042552205. MACD: -1.4281565720174676E-5. Average: 0.03576669466666667
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.0357233
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 36.7738296672283. MACD: -3.582775307966737E-5. Average: 0.035768856
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03572945
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 43.368774482371904. MACD: -4.7123320549942285E-5. Average: 0.035770955333333326
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.035733100000000004
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 45.02987506789798. MACD: -4.0083150797845364E-5. Average: 0.03577285333333333
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.0357296
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 48.169668797210655. MACD: -4.316106393321251E-5. Average: 0.035773826
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.035752400000000004
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 65.19533231861996. MACD: -4.824137944438267E-5. Average: 0.035774795333333324
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.0357572
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 75.58839627805509. MACD: -5.53657015469669E-5. Average: 0.03577555133333332
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03574990000000001
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 86.15096693700077. MACD: -6.603787249700161E-5. Average: 0.035776684666666655
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.0357515
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 86.74033149171314. MACD: -7.266944984330183E-5. Average: 0.03577824599999999
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03575215000000001
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 83.48623853211623. MACD: -6.933001930384365E-5. Average: 0.035779652666666655
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03571830000000001
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 47.034400948997295. MACD: -7.45833306652181E-5. Average: 0.03578041799999999
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - New average value: 0.03569825
+[INFO ] 2021-04-05 10:58:32,447 com.rds.algorithms.Algorithm - RSI: 34.114052953157966. MACD: -7.74624739801892E-5. Average: 0.03578091133333333
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03573305
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 49.98067259373737. MACD: -7.40826443961867E-5. Average: 0.03578177199999999
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.035737950000000004
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 53.19311663480052. MACD: -6.189260322102379E-5. Average: 0.035783102666666664
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03574305
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 45.864661654133165. MACD: -4.793629464753109E-5. Average: 0.035784616
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03569105
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 29.36037441497639. MACD: -2.541389797758458E-5. Average: 0.03578579066666666
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0356902
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 30.591677503249002. MACD: 3.61140014365007E-6. Average: 0.03578637133333333
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03568854999999999
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 29.54176145596493. MACD: 2.849131714236587E-5. Average: 0.035786385999999996
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0356832
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 28.25607064017379. MACD: 5.2512926508674796E-5. Average: 0.035785879333333326
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03566455
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 31.252179979070448. MACD: 7.384963488696668E-5. Average: 0.03578551533333332
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03567440000000001
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 41.04393541119332. MACD: 9.101984328441082E-5. Average: 0.03578535999999999
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0356613
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 17.810677433827493. MACD: 9.178495708246073E-5. Average: 0.03578420933333333
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0356566
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 13.438202247189864. MACD: 8.466145449821967E-5. Average: 0.03578287066666666
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03564695
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 8.506044905012587. MACD: 8.711560994555474E-5. Average: 0.035781242
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03564305000000001
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 14.549483013301511. MACD: 8.486112740929817E-5. Average: 0.03577903466666666
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.035588049999999996
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 8.083709478871214. MACD: 7.90223145793178E-5. Average: 0.035775493333333325
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03559365
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 12.281399046109698. MACD: 5.5800941570870264E-5. Average: 0.03577173599999999
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0356675
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 45.95985589294925. MACD: 3.6018865115641504E-5. Average: 0.035768996666666664
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.035695899999999996
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 57.6819407008061. MACD: 1.8608935734867313E-5. Average: 0.03576710866666667
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03569775
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 55.95511349145355. MACD: 6.206093107249315E-6. Average: 0.03576531933333334
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03564735
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 47.01092779087246. MACD: -9.401615508721452E-6. Average: 0.035763564666666664
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03564375
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 47.23358449946294. MACD: -2.2658791403604826E-5. Average: 0.035762072
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.035580299999999995
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 38.34993882188444. MACD: -3.869953037699423E-5. Average: 0.035759514000000006
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0355925
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 41.41328350602926. MACD: -5.425374198268888E-5. Average: 0.035756597999999994
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.03559289999999999
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 51.01147028154195. MACD: -6.406196803104909E-5. Average: 0.03575358666666666
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.0355429
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - RSI: 41.06985746964684. MACD: -6.445409741873484E-5. Average: 0.03575000533333333
+[INFO ] 2021-04-05 10:58:32,448 com.rds.algorithms.Algorithm - New average value: 0.035525100000000004
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 18.785620341954967. MACD: -7.467713248529021E-5. Average: 0.03574592933333333
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03552355
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 7.180124223602334. MACD: -8.269041826713017E-5. Average: 0.035741598
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035525299999999996
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 7.1339796171964025. MACD: -6.390798022609152E-5. Average: 0.0357373
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03548795000000001
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 7.628920786811122. MACD: -4.112151350998519E-5. Average: 0.03573245466666666
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.0354791
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 7.421773984996534. MACD: -1.4585040829032345E-5. Average: 0.03572765933333333
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035470999999999996
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 10.39855072463159. MACD: -6.66810981821962E-6. Average: 0.03572248466666666
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03546719999999999
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 1.658950617273021. MACD: 1.516565745130231E-6. Average: 0.035716571999999995
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035480800000000014
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 10.749299719899724. MACD: -8.829317529596292E-6. Average: 0.03571139666666666
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.0355323
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 46.32709632709685. MACD: -4.764809116943473E-6. Average: 0.03570690733333333
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03551375
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 46.08755601516528. MACD: 1.719037904859903E-6. Average: 0.035701839333333325
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.0355113
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 45.8033573141496. MACD: -1.0146840221809521E-5. Average: 0.03569658066666666
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.0355195
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 48.0971128608948. MACD: -2.7906871939647695E-5. Average: 0.03569195199999999
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03553515
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 68.05661820963225. MACD: -4.533279715782474E-5. Average: 0.035687783999999986
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03553075000000001
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 70.45544554455486. MACD: -5.52156994986121E-5. Average: 0.03568362599999999
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035539100000000004
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 76.91699604743235. MACD: -6.379846146378925E-5. Average: 0.035679212666666654
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035548199999999995
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 80.72837632777242. MACD: -6.520502529936958E-5. Average: 0.035675140666666647
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03554439999999999
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 76.0655737704871. MACD: -7.607526676434867E-5. Average: 0.03567169999999999
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03553549999999999
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 52.015113350118696. MACD: -8.815184355084361E-5. Average: 0.03566877333333331
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03554865
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 73.58108108108698. MACD: -8.90844376801006E-5. Average: 0.03566576666666665
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.0355847
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 84.10780669144957. MACD: -6.422585794737116E-5. Average: 0.03566328533333331
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035672
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 90.8409212640604. MACD: -4.857155417533276E-5. Average: 0.03566193399999998
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03566555
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 86.73239436619517. MACD: -2.7870846196713438E-5. Average: 0.03565962133333331
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03559740000000001
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 63.81347150259106. MACD: -9.667749252067142E-6. Average: 0.03565616199999997
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03558035000000001
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 58.25165033006736. MACD: 1.0187866573426477E-5. Average: 0.035652864666666645
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03559515
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 59.18247604146384. MACD: 3.618895064108656E-5. Average: 0.03564876666666665
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.035636749999999995
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - RSI: 65.73521894701126. MACD: 6.665183012648424E-5. Average: 0.03564527866666665
+[INFO ] 2021-04-05 10:58:32,449 com.rds.algorithms.Algorithm - New average value: 0.03562085000000001
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 64.20369445831693. MACD: 9.545591214488652E-5. Average: 0.03564190199999999
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035590050000000005
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 56.50738761395917. MACD: 1.1028614367510379E-4. Average: 0.03563904799999999
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035582499999999996
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 49.62016574585619. MACD: 1.2274752499662954E-4. Average: 0.035636418666666655
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03555054999999999
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 24.07684098185257. MACD: 1.3395686703137938E-4. Average: 0.03563413866666666
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035559249999999994
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 27.526427061307444. MACD: 1.5144721005287397E-4. Average: 0.03563190933333332
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035582249999999996
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 46.04128560229593. MACD: 1.8664432455401569E-4. Average: 0.035629716
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.0356101
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 57.358397229777246. MACD: 2.04355364906984E-4. Average: 0.03562796666666667
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03565055
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 62.15978928885038. MACD: 1.8558973046952905E-4. Average: 0.035626744
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035662650000000004
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 56.53050932930096. MACD: 1.64408718904556E-4. Average: 0.03562580933333333
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.0356771
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 64.28752857505367. MACD: 1.5046235496888404E-4. Average: 0.03562520466666667
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035676549999999994
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 75.96038415365351. MACD: 1.475790722819241E-4. Average: 0.03562475266666666
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035697099999999996
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 81.90423162583097. MACD: 1.338868207133143E-4. Average: 0.03562482133333333
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035681050000000006
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 89.85949908369116. MACD: 1.0776804894928742E-4. Average: 0.03562468
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03570539999999999
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 90.744354613884. MACD: 7.076555577640602E-5. Average: 0.035624640666666665
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035736250000000004
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 91.13247863247966. MACD: 2.4912066938503217E-5. Average: 0.035624813333333324
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035711
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 77.32936078006423. MACD: -1.6786404522083838E-6. Average: 0.03562456733333333
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035709349999999994
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 70.16460905349362. MACD: -1.0035573135407373E-5. Average: 0.03562425066666666
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03567555
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 53.85074626865557. MACD: -9.765193437326851E-6. Average: 0.03562353
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03567575
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 49.55954323001497. MACD: -7.301620189113935E-6. Average: 0.035622508
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035690700000000006
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 54.22010140173323. MACD: -1.5561425803959348E-5. Average: 0.03562162133333333
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035669150000000004
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 41.71360806404033. MACD: -1.6062207801888283E-5. Average: 0.03562054466666666
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03565135
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 41.2852112676042. MACD: -5.801058079358198E-6. Average: 0.03561920933333333
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035658
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 34.47937131631343. MACD: 1.5235408413568426E-5. Average: 0.035617954
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.0356928
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 36.131503351419354. MACD: 2.640966568496168E-5. Average: 0.035617614
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035643049999999996
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 31.244824730886094. MACD: 3.4158700411002404E-5. Average: 0.035616878000000005
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.03562745000000001
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - RSI: 29.010763710920997. MACD: 4.688792310347768E-5. Average: 0.03561547
+[INFO ] 2021-04-05 10:58:32,450 com.rds.algorithms.Algorithm - New average value: 0.035629150000000005
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 35.76687116564477. MACD: 4.866765690086796E-5. Average: 0.03561401933333334
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03556625000000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 25.74213557820177. MACD: 5.172250876175815E-5. Average: 0.035611662
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03555720000000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 19.63148316651322. MACD: 4.891952121101525E-5. Average: 0.03560987733333334
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03550035
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 16.91493531948018. MACD: 4.376964501684803E-5. Average: 0.035607346000000005
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03549085
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 17.483792544568274. MACD: 3.697926708319089E-5. Average: 0.035604710000000005
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.0355167
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 23.439849624057572. MACD: 2.1485056497249575E-5. Average: 0.03560249000000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035536849999999995
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 18.977521384521154. MACD: -1.5782778049294282E-6. Average: 0.035600787333333335
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03555065
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 28.551532033426994. MACD: -2.3167675973210692E-5. Average: 0.035599137333333336
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.0355793
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 39.46158896913776. MACD: -3.345288208334489E-5. Average: 0.035598044
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03559635
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 43.27317473338696. MACD: -5.739740428600617E-5. Average: 0.035597240666666675
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035623350000000005
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 63.73256373256194. MACD: -8.209022240184729E-5. Average: 0.03559692600000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035638
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 68.92271662763108. MACD: -9.767234334550178E-5. Average: 0.03559685866666668
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03562095
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 84.71502590673276. MACD: -1.3113709230083896E-4. Average: 0.03559729733333335
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.0356324
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 90.29319669797707. MACD: -1.5974929613592022E-4. Average: 0.035597814000000005
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035630800000000004
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 87.68163804491361. MACD: -1.8809843892313323E-4. Average: 0.03559732466666667
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035611949999999996
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 75.01665556295504. MACD: -2.0732092000477312E-4. Average: 0.03559620533333333
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03559485
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 64.40677966101396. MACD: -2.0916192989505492E-4. Average: 0.035594833333333326
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035556149999999995
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 42.91832364637376. MACD: -1.9885091483466154E-4. Average: 0.03559361733333333
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.0355574
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 36.81002370471085. MACD: -1.8279352543494802E-4. Average: 0.035592465999999996
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03554785
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 21.006144393244327. MACD: -1.5644770388534496E-4. Average: 0.035592033333333335
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03554525
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 10.749047820574361. MACD: -1.194869803695827E-4. Average: 0.035591403333333334
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03551595000000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 9.739263803688928. MACD: -7.607349822797376E-5. Average: 0.03559037733333334
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03550855000000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 0.9893153937539125. MACD: -3.413080298493732E-5. Average: 0.03558991933333334
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.035503549999999995
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 0.9633911368076582. MACD: 6.220009398337338E-6. Average: 0.035589632
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.03548920000000001
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 0.9980039920225181. MACD: 4.256711532507691E-5. Average: 0.035589174
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - New average value: 0.0355144
+[INFO ] 2021-04-05 10:58:32,451 com.rds.algorithms.Algorithm - RSI: 19.83502062242161. MACD: 6.756305110922504E-5. Average: 0.03558902866666667
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03551775
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 30.408163265306584. MACD: 8.83779545369673E-5. Average: 0.03558942600000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03551375
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 28.337468982623506. MACD: 9.67611230052253E-5. Average: 0.03558988799999999
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.0354926
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 25.411659991094183. MACD: 9.586036914342818E-5. Average: 0.035590176
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035438050000000006
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 17.376749847835228. MACD: 9.328480949913147E-5. Average: 0.03558978733333333
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.0354328
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 20.35650623885263. MACD: 8.366487106331103E-5. Average: 0.03558914733333334
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03544055
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 25.81792318633947. MACD: 7.16510092590344E-5. Average: 0.03558792400000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03546115
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 36.427656850189884. MACD: 4.9537995776774185E-5. Average: 0.035587222666666675
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035478350000000006
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 46.589122917319365. MACD: 2.533430191792842E-5. Average: 0.035586783333333344
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.0354572
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 31.5483870967752. MACD: 7.466685504498935E-7. Average: 0.035585952666666684
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03545570000000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 29.742082925239245. MACD: -2.6717340064602138E-5. Average: 0.03558489333333335
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.0354375
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 27.218404541381787. MACD: -4.279132497342541E-5. Average: 0.035583650000000015
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03539235
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 23.804546642280485. MACD: -5.393337257337548E-5. Average: 0.03558169333333335
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035349649999999996
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 25.376044568245263. MACD: -6.509152639254429E-5. Average: 0.03557904600000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03531955
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 22.290188402252227. MACD: -7.875734642569185E-5. Average: 0.03557604800000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.0353002
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 17.50405186385838. MACD: -9.805194537977808E-5. Average: 0.03557291066666668
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03529575
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 8.608608608612442. MACD: -1.0652995717177767E-4. Average: 0.03556953866666668
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035357
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 25.117900348574068. MACD: -1.0032860709465457E-4. Average: 0.03556650266666668
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035319399999999994
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 23.530541682672933. MACD: -8.34635766881885E-5. Average: 0.035561801333333344
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03532659999999999
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 25.733082706765146. MACD: -6.212617476402601E-5. Average: 0.035557282000000016
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03535495000000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 35.05341300018435. MACD: -5.101520839015261E-5. Average: 0.035554049333333344
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035359249999999995
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 42.966425839352524. MACD: -3.691227450476236E-5. Average: 0.03555110133333335
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035320899999999995
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 43.775709027927924. MACD: -2.6284687741633995E-5. Average: 0.03554744466666667
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035323400000000005
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 50.94664371772963. MACD: -2.2560732341088584E-5. Average: 0.03554326666666667
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03532444999999999
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 56.55228316671079. MACD: -2.4632068229125506E-5. Average: 0.03553931466666667
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.035322549999999994
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 57.342465753422786. MACD: -3.7158662588075375E-5. Average: 0.035535748
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03530855000000001
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 32.08872458410525. MACD: -5.4018020133490846E-5. Average: 0.035532095333333326
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - New average value: 0.03531844999999999
+[INFO ] 2021-04-05 10:58:32,452 com.rds.algorithms.Algorithm - RSI: 49.55834495583132. MACD: -7.048782463630983E-5. Average: 0.035529000666666664
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035334199999999996
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 53.27304048234504. MACD: -6.235104511357803E-5. Average: 0.03552599999999999
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.0353735
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 57.30027548209277. MACD: -6.08502592699438E-5. Average: 0.035523216666666656
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03538935
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 60.85858585858968. MACD: -5.5599740081856334E-5. Average: 0.035520273333333324
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035423500000000004
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 88.1696428571519. MACD: -3.960299685579755E-5. Average: 0.03551724599999998
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035380350000000005
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 66.26678091974017. MACD: -2.307215694149868E-5. Average: 0.035513481999999985
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03540694999999999
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 70.56331006979377. MACD: -1.6470202131581827E-5. Average: 0.03550987999999999
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035430350000000006
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 74.26834759117982. MACD: -1.093199485315959E-6. Average: 0.03550659733333332
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.0354463
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 80.74090604775685. MACD: 1.5421837005477406E-5. Average: 0.03550325333333332
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03542425
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 72.39627434377738. MACD: 2.514637721118848E-5. Average: 0.035499829333333316
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03539465000000001
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 62.08758248350565. MACD: 3.314771064453673E-5. Average: 0.035495685999999985
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03534520000000001
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 44.5618754804004. MACD: 4.63050235270197E-5. Average: 0.035490471999999995
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035309099999999996
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 35.69263683365958. MACD: 6.166870151451647E-5. Average: 0.035485113333333325
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035355550000000006
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 38.394534585824886. MACD: 8.604641321012928E-5. Average: 0.035480396
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03536765000000001
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 47.57355750859821. MACD: 1.1379630131368846E-4. Average: 0.03547629066666667
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03534534999999999
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 38.0341880341895. MACD: 1.3715422768895413E-4. Average: 0.035471885333333335
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03531625
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 28.316229570505726. MACD: 1.4746089458570508E-4. Average: 0.035466892666666666
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03529240000000001
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 21.605166051663574. MACD: 1.6164692304677664E-4. Average: 0.03546186933333333
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035266450000000005
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 21.298654056023324. MACD: 1.7354747890887558E-4. Average: 0.03545673733333333
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.0352502
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 22.385777098071244. MACD: 1.8129590101029512E-4. Average: 0.0354513
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03527675
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 35.65891472868287. MACD: 1.790628243803102E-4. Average: 0.03544575266666667
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.0353048
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 49.06764960971411. MACD: 1.5911217738695963E-4. Average: 0.03544124266666667
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035331249999999995
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 44.23076923076638. MACD: 1.2187358430989922E-4. Average: 0.03543729333333334
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03530554999999999
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 36.15075825155752. MACD: 7.859228206236158E-5. Average: 0.03543297866666667
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035288150000000004
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 36.95850433196671. MACD: 6.093661296712717E-5. Average: 0.03542927066666667
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.035248299999999996
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 35.23147141925506. MACD: 4.668826134000956E-5. Average: 0.03542515200000001
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03529325
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - RSI: 50.16922158072661. MACD: 2.423757825947032E-5. Average: 0.03542239066666668
+[INFO ] 2021-04-05 10:58:32,453 com.rds.algorithms.Algorithm - New average value: 0.03530295000000001
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 57.76926351639023. MACD: -9.799708543928464E-6. Average: 0.035419885333333345
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0353032
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 62.10598446779327. MACD: -4.638230475714521E-5. Average: 0.03541703866666668
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03534275
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 64.23027166882245. MACD: -8.451000852503868E-5. Average: 0.03541445066666667
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03536070000000001
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 62.60144274121043. MACD: -1.0612582612727604E-4. Average: 0.035411918000000014
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0353596
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 57.215576482565595. MACD: -1.1129110465777316E-4. Average: 0.035408988666666676
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03536605
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 67.07110609480927. MACD: -1.1245995634889395E-4. Average: 0.035405918000000015
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03538909999999999
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 77.6045939294433. MACD: -1.1107601528370433E-4. Average: 0.03540279466666668
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.035412900000000004
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 99.34052757793128. MACD: -1.1383720353142864E-4. Average: 0.035399793333333346
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354008
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 90.14557670772004. MACD: -1.1116664052127832E-4. Average: 0.03539685800000001
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354192
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 90.7465825446825. MACD: -1.0613394373408286E-4. Average: 0.035394015333333355
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03541124999999999
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 85.932823412029. MACD: -7.415262584951994E-5. Average: 0.035391088000000015
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.035390349999999994
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 68.0713743356057. MACD: -4.7509658834567545E-5. Average: 0.03538813333333335
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354053
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 67.32711732711104. MACD: -2.7013427203218032E-5. Average: 0.03538560600000001
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03540075
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 65.56942867953089. MACD: 2.5404872669275848E-6. Average: 0.03538353400000001
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.035392650000000005
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 59.94020926756388. MACD: 3.227716949153924E-5. Average: 0.035381337333333346
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03539455
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 52.41899689303319. MACD: 5.89220289185103E-5. Average: 0.035379293333333346
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.035398250000000006
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 42.08535926526342. MACD: 8.621461568488534E-5. Average: 0.035377333333333344
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03543475
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 64.5147498931161. MACD: 1.1870683341692449E-4. Average: 0.035376250666666664
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354549
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 65.0379106992417. MACD: 1.4145767667461613E-4. Average: 0.03537553533333333
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03545935
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 70.87673611111587. MACD: 1.487645408627482E-4. Average: 0.035374946
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354612
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 86.84347373895321. MACD: 1.5456436541385284E-4. Average: 0.03537457266666666
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354865
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 88.12206572770201. MACD: 1.5386462225616777E-4. Average: 0.03537420066666667
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.035466349999999994
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 76.86322686322514. MACD: 1.4283752514303172E-4. Average: 0.035373515333333334
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.0354698
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 82.84376330353118. MACD: 1.3926951327601937E-4. Average: 0.03537292933333334
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.03543625000000001
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 63.98390342052677. MACD: 1.2386672340963133E-4. Average: 0.035372178
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - New average value: 0.035436949999999995
+[INFO ] 2021-04-05 10:58:32,454 com.rds.algorithms.Algorithm - RSI: 63.244353182749286. MACD: 1.0143542496937597E-4. Average: 0.03537216333333333
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.03545185
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 56.8674698795181. MACD: 7.90761771173245E-5. Average: 0.03537241733333333
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.0354469
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 46.34034766697408. MACD: 5.643314531965997E-5. Average: 0.03537250199999999
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.03544945
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 45.391061452513306. MACD: 4.5291628618759474E-5. Average: 0.035372346000000006
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.03546414999999999
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 51.22661122660918. MACD: 4.0501040817934154E-5. Average: 0.03537215666666667
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.03548900000000001
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 51.04340567613085. MACD: 3.6628131959004476E-5. Average: 0.03537258066666667
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.035502849999999996
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 66.07929515418842. MACD: 2.6480478898402194E-5. Average: 0.03537320933333333
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - New average value: 0.03552875
+[INFO ] 2021-04-05 10:58:32,455 com.rds.algorithms.Algorithm - RSI: 71.68076498712982. MACD: 2.1699673763834313E-5. Average: 0.035374426
+[INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - Starting...
+
+[INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - ***********************************************************
+[INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - * RSI period is: 10
+[INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - * Starting BTC: 0.0
+[INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - ***********************************************************
+

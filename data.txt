@@ -948,3 +948,5 @@
 [INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - * Starting BTC: 0.0
 [INFO ] 2021-04-05 10:58:32,455 com.rds.Runner - ***********************************************************
 
+[INFO ] 2021-04-05 10:59:42,082 com.rds.algorithms.Algorithm - New average value: 0.0355256
+[INFO ] 2021-04-05 10:59:42,084 com.rds.algorithms.Algorithm - RSI: 92.32591189010101. MACD: 1.3947343846531008E-5. Average: 0.03537620266666667
